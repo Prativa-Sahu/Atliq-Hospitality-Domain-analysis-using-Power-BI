@@ -59,3 +59,6 @@ The dashboard provides several benefits:
 6. **Dashboard Design:** Skills in designing user-friendly dashboards that effectively communicate insights through visualizations and metrics.
 7. **Business Acumen:** Understanding of the hospitality industry, including pricing strategies, occupancy trends, and competitive analysis.
 
+**Snapshot of Dashboard**
+
+![image](https://github.com/user-attachments/assets/2712b175-6e15-47d6-8952-7a68bd0b370a)
